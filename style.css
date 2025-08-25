@@ -1,4 +1,4 @@
-<style id='page-skin-1' type='text/css'>
+<style id='page-skin-1' type='text/css'><!--
 a,abbr,acronym,address,applet,article,aside,b,big,blockquote,body,caption,center,cite,code,dd,del,details,dfn,dl,dt,em,fieldset,figcaption,figure,footer,form,h1,h2,h3,h4,h5,h6,header,hgroup,html,i,img,ins,kbd,label,legend,li,menu,nav,object,ol,output,p,pre,q,s,samp,section,small,span,strike,strong,sub,summary,sup,table,tbody,td,tfoot,th,thead,tr,tt,u,ul,var{padding:0;border:0;font-size:100%;font:inherit}article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{display:block}ins{text-decoration:underline}del{text-decoration:line-through}dl,ul{list-style-position:inside}th{text-align:center}caption{font-size:16px;text-align:center;margin-bottom:1em;}img{display:block;height:auto;max-width:100%;border:none;margin:0 0 0px}sup{font-size:smaller}pre{white-space:pre-wrap;}
 .section,.widget,.widget ul,.widget li,ul.flat li{margin:0;padding:0;list-style-type:disc;margin-bottom:10px}
 body{min-height:100vh;height:auto!important;margin:0;font-family:'Poppins','Roboto',sans-serif;font-size:16px;font-weight:400;line-height:1.5em;text-align:left;position:relative;color:#222;-webkit-font-smoothing:antialiased !important;-moz-osx-font-smoothing:grayscale !important;overflow-y:scroll;background:#f7f7f7;}
@@ -262,7 +262,7 @@ a.homepage:visited{color:#fff}
 .roww a{-webkit-box-shadow:none;box-shadow:none;text-decoration:none;}
 #hlrpsb a:link{font-size:15px;}
 .rctitles2{margin-top:10px;padding-bottom:10px;border-bottom: 1px dotted #cccccc;}
-</style>
+--></style>
 <style>
 /* Responsive */
 @media (min-width:1120px){.row{width:100%}.main-wrapper{width:70%}}
